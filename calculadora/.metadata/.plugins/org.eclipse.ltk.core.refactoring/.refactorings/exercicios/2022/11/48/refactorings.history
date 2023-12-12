@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;fundamentos.operadores.unarios.java&apos; to &apos;Unarios.java&apos;&#x0D;&#x0A;- Original project: &apos;exercicios&apos;&#x0D;&#x0A;- Original element: &apos;fundamentos.operadores.unarios.java&apos;&#x0D;&#x0A;- Renamed element: &apos;fundamentos.operadores.Unarios.java&apos;" description="Rename compilation unit &apos;unarios.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;fundamentos.operadores{unarios.java" name="Unarios.java" references="false" stamp="1669249912989" version="1.0"/>
+</session>

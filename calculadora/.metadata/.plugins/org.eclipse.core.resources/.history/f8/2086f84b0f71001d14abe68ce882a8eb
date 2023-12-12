@@ -1,0 +1,30 @@
+package fundamentos;
+
+import java.util.Scanner;
+
+public class ExercicioIMC {
+	
+	public static void main(String[] args) {
+		
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		double altura, peso;
+		System.out.print("Digite a altura: ");
+		altura = entrada.nextDouble();
+		System.out.println("Digite o peso: ");
+		peso = entrada.nextDouble();
+		double potencia = Math.pow(altura, 2);
+		double imc = peso / potencia;
+		
+		System.out.println("o imc é: %2.f ", imc);
+		
+		
+		
+		
+		
+		
+		entrada.close();
+	}
+
+}

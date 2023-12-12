@@ -1,0 +1,46 @@
+package fundamentos;
+
+import java.util.Scanner;
+
+public class ExercicioCelsius {
+	
+	public static void main(String[] args) {
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		double celcius;
+		System.out.println("Digite os graus em farenhait");
+		celcius = entrada.nextDouble();
+		double farinha = celcius * 1.8 + 32;
+		
+		System.out.println("O valor em celcius é "+ celcius + "\n O valor em farenhait convertido é "+ farinha);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		entrada.close();
+		
+		
+		
+		
+		
+	}
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+}
